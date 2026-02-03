@@ -57,7 +57,7 @@ Como remover o Notepad++ do sistema?
 sudo snap remove notepad-plus-plus
 ```
 
-**Existe laguma alternativa ao notepad++**
+**Existe Alguma alternativa ao notepad++?**
 
 [NotepadQQ] (https://notepadqq.com/s/)
 
