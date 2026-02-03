@@ -1,10 +1,14 @@
-# Notepad++ no Linux (via Snap)
+# Como instalar Notepad++ no Linux? (via Snap)
 
 Este repositório documenta como instalar o **Notepad++ no Linux** utilizando o **Snap**, que executa o editor através do **Wine**, permitindo uma experiência muito próxima da versão nativa do Windows.
 
 ## 📦 Pré-requisitos
 
 Antes de prosseguir, certifique-se de que o **Snap** esteja instalado no sistema.
+
+O que é snap?
+
+- formato de empacotamento de software universal da Canonical para Linux, facilitando a instalação de apps em várias distribuições.
 
 Para verificar:
 ```bash
