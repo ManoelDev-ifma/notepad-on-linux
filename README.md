@@ -51,10 +51,14 @@ Ou basta procurar no Notepad++ no seu menu gráfico:
 
 **🗑️ Desinstalação**
 
-Para remover o Notepad++ do sistema:
+Como remover o Notepad++ do sistema?
 
 ```bash
 sudo snap remove notepad-plus-plus
 ```
+
+**Existe laguma alternativa ao notepad++**
+
+[https://notepadqq.com/s/] (NotepadQQ)
 
 #### ⭐ Se este guia foi útil, considere dar uma estrela no repositório!
