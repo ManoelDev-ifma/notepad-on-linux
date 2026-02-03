@@ -59,6 +59,6 @@ sudo snap remove notepad-plus-plus
 
 **Existe laguma alternativa ao notepad++**
 
-[https://notepadqq.com/s/] (NotepadQQ)
+[NotepadQQ] (https://notepadqq.com/s/)
 
 #### ⭐ Se este guia foi útil, considere dar uma estrela no repositório!
